@@ -1,0 +1,67 @@
+name: DeCTF
+main: net.dezilla.ctf.Main
+author: DeZilla
+website: http://www.dezilla.net/
+description: Dont do drugs kids
+version: 2019.6.30
+api-version: 1.14
+commands:
+  spawn:
+    description: Teleports to map spawn
+  kits:
+    description: Change Class
+    aliases: [kit, class, classes]
+  info:
+    description: Shows info about game
+  switch:
+    description: Switch Team
+  forcestart:
+    description: Start the game by force
+  updatesb:
+    description: temp command, update scoreboard
+  heavy:
+    description: Heavy kit
+  soldier:
+    description: Soldier kit
+  archer:
+    description: Archer kit
+  medic:
+    description: Medic kit
+  dragger:
+    description: Dragger kit
+  ninja:
+    description: Ninja kit
+  chemist:
+    description: Chemist kit
+  pyro:
+    description: Pyro kit
+  tank:
+    description: Tank kit
+  engineer:
+    description: Engineer kit
+  mage:
+    description: Mage kit
+  warlock:
+    description: Warlock kit
+  necro:
+    description: Necro kit
+  fisher:
+    description: Fisher kit
+  assassin:
+    description: Assassin kit
+  dwarf:
+    description: Dwarf kit
+  elf:
+    description: Elf kit
+  fashionista:
+    description: Fashionista kit
+  scout:
+    description: Scout kit
+  jumper:
+    description: Jumper kit
+  wraith:
+    description: Wraith kit
+  tester:
+    description: Tester kit (For testing purpose only)
+  paladin:
+    description: Paladin kit
